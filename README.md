@@ -15,7 +15,6 @@ This project analyzes the Netflix dataset using SQL. The dataset includes inform
 
 ## 📜 Dataset Source  
 The dataset used in this project comes from Kaggle. You can access and download it from the link below:  
-
 🔗 **[Dataset Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)**  
 
 
