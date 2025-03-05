@@ -1,4 +1,4 @@
-# 📺 Netflix Project SQL  
+# 📺 Netflix Insights with SQL 
 ![Netflix Project Banner](https://github.com/saipradeep16/Netflix_Project_SQL/blob/main/netflix%20logo.jpg)
 ## 📌 Overview  
 This project analyzes the Netflix dataset using SQL. The dataset includes information about movies and TV shows available on Netflix as of November 2019. The SQL queries help extract insights such as genre distribution, release year trends, content ratings, and more.  
