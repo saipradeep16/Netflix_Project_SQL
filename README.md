@@ -1,10 +1,10 @@
 # 📺 Netflix Insights with SQL 
 ![Netflix Project Banner](https://github.com/saipradeep16/Netflix_Project_SQL/blob/main/netflix%20logo.jpg)
 ## 📌 Overview  
-This project analyzes the Netflix dataset using SQL. The dataset includes information about movies and TV shows available on Netflix as of November 2019. The SQL queries help extract insights such as genre distribution, release year trends, content ratings, and more.  
+This project analyzes the Netflix dataset using SQL. The dataset includes information about movies and TV shows available on Netflix. The SQL queries help extract insights such as genre distribution, release year trends, content ratings, and more.  
 
 ## 📂 Files in this Repository  
-- **`netflix_titles_nov_2019.csv`** - The dataset containing Netflix movie and TV show details.  
+- **`netflix_titles.csv`** - The dataset containing Netflix movie and TV show details.  
 - **`SQL PROJECT.sql`** - SQL queries used for data analysis.  
 
 ## 🚀 Features  
@@ -13,20 +13,12 @@ This project analyzes the Netflix dataset using SQL. The dataset includes inform
 - Extracting top genres and most common ratings.  
 - Identifying relationships between release year and content type.  
 
-## 🛠 Tools Used  
-- **SQL** for data extraction and analysis.  
-- **PostgreSQL** (Compatible with major relational databases).  
-
-## 📊 Insights Gained  
-- Most popular genres on Netflix.  
-- Trends in movie and TV show releases over the years.  
-- Countries contributing the most content.  
-
 ## 📜 Dataset Source  
-The dataset was originally sourced from **Kaggle: Netflix Movies and TV Shows Dataset**.  
+The dataset used in this project comes from Kaggle. You can access and download it from the link below:  
 
-## 🤝 Contributing  
-Feel free to fork this repository, suggest improvements, or contribute by adding more queries and insights!  
+🔗 **[Dataset Link](https://www.kaggle.com/datasets/shivamb/netflix-shows?resource=download)**  
 
-## 📧 Contact  
-If you have any questions, reach out to me at bommasaipradeep2001@gmail.com.  
+
+
+
+
