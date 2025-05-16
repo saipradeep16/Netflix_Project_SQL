@@ -161,7 +161,7 @@ This dataset was sourced from Kaggle and includes 8,800+ Netflix titles with met
 ## 👤 Author
 - **Saipradeep Bomma**
 - Graduate Student in Data Science | SQL & Python Enthusiast
-- 📧 [LinkedIn](https://www.linkedin.com/in/saipradeep16)
+- 📧 [LinkedIn](linkedin.com/in/bsaipradeep)
 
 ---
 
